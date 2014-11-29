@@ -2,7 +2,7 @@
 Plugin URI:https://github.com/nosstradamus/Clonemaker
 Author: Sitnic Victor
 Author URI: https://github.com/nosstradamus
-Contributors: no Contributors
+Contributors: SitnicVictor
 Donate link:
 Tags: page, clone, dublicate, copy, paste, content
 Stable tag: 1
