@@ -54,7 +54,7 @@ Press on `+++` link to get the content from selected page, editor is fit with lo
 
 == Screenshots ==
 
-1.Plugin view.
+1. Plugin view.
 
 == Changelog ==
 
