@@ -65,6 +65,7 @@ Press on icon near link to get the content from selected page/post, editor is fi
 = 23.12.2014 =
 * Adding clone functionality to post type
 * Adding icon inside +++
+* Release v1.1
 * Release v1.2
 
 == Upgrade Notice ==
