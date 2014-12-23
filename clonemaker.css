@@ -4,3 +4,4 @@
 */
 #CM-CloneBoxPost .CM-page,
 #CM-CloneBoxPage .CM-post{display: none}
+.clonepage {display: inline-block;width:16px; height:16px; background:url('save_copy.png');font-size:0;}
