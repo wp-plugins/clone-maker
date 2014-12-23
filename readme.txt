@@ -42,11 +42,15 @@ Press on `+++` link to get the content from selected page, editor is fit with lo
 1. Plgin View in sidebar
 
 == Changelog ==
+= 23.12.2014 =
+* TODO: Add support for post types
 
 = 29.11.2014 =
 * First versions uploaded to WordPress.
 
+
+
 == Upgrade Notice ==
 
-TODO: IMPLIMENT SUPPORT FOR POSTS
+
 
