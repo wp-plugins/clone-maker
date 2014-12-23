@@ -44,7 +44,7 @@ Press on `+++` link to get the content from selected page, editor is fit with lo
 == Changelog ==
 
 = 29.11.2014 =
-* First versions uploaded to WordPress.= 23.12.2014 =* Adding clone functionality to post page
+* First versions uploaded to WordPress.= 23.12.2014 =* Adding clone functionality to post type
 
 == Upgrade Notice ==
 
