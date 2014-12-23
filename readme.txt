@@ -2,7 +2,7 @@
 Plugin URI:https://github.com/nosstradamus/Clonemaker
 Author: Sitnic Victor
 Author URI: https://github.com/nosstradamus
-Contributors: no Contributors
+Contributors: SitnicVictor
 Donate link:
 Tags: page, clone, dublicate, copy, paste, content
 Stable tag: 1
@@ -42,9 +42,9 @@ Press on `+++` link to get the content from selected page, editor is fit with lo
 1. Plgin View in sidebar
 
 == Changelog ==
-= 23.12.2014 =* Adding clone functionality to post page
+
 = 29.11.2014 =
-* First versions uploaded to WordPress.
+* First versions uploaded to WordPress.= 23.12.2014 =* Adding clone functionality to post page
 
 == Upgrade Notice ==
 
