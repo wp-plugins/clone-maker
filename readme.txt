@@ -47,3 +47,6 @@ Press on `+++` link to get the content from selected page, editor is fit with lo
 * First versions uploaded to WordPress.
 
 == Upgrade Notice ==
+
+TODO: IMPLIMENT SUPPORT FOR POSTS
+
