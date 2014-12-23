@@ -1,5 +1,5 @@
-
 <?php
+//Connect Styles
  function CM_connect_style() {
        /* Register our stylesheet. */
        wp_register_style( 'myPluginStylesheet', plugins_url('clonemaker.css', __FILE__) );
