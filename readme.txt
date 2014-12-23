@@ -5,7 +5,7 @@ Author URI: https://github.com/nosstradamus
 Contributors: SitnicVictor
 Donate link:
 Tags: page, clone, dublicate, copy, paste, content
-Stable tag: 1
+Stable tag: 1.1
 Version: 1.1
 Requires at least: 2.6
 Tested up to: 4.1
