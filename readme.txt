@@ -8,7 +8,7 @@ Tags: page, clone, dublicate, copy, paste, content
 Stable tag: 1
 Version: 1.1
 Requires at least: 2.6
-Tested up to: 4.0.1
+Tested up to: 4.1
 
 This Plugin simulate a copy - paste action for the pages and posts in dashboard;
 
