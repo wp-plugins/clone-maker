@@ -69,7 +69,8 @@ Press on icon near link to get the content from selected page/post, editor is fi
 * Release v1.2
 
 = 15.03.2015 =
-*Fix minor bugs
+* Fix minor bugs
+* Release v1.3
 
 
 == Upgrade Notice ==
