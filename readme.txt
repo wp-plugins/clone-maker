@@ -5,8 +5,8 @@ Author URI: https://github.com/nosstradamus
 Contributors: SitnicVictor
 Donate link:
 Tags: page, clone, dublicate, copy, paste, content
-Stable tag: 1.3
-Version: 1.3
+Stable tag: 1.2
+Version: 1.2
 Requires at least: 2.6
 Tested up to: 4.1
 
@@ -66,8 +66,7 @@ Press on icon near link to get the content from selected page/post, editor is fi
 * Adding clone functionality to post type
 * Adding icon inside +++
 * Release v1.1
-* Release v1.2
-* Release v1.3
+* Release v1.2
 
 == Upgrade Notice ==
 

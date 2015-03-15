@@ -145,10 +145,10 @@ function CM_script() { ?>
 
 	   }
 
-	   	if(z){jQuery('a#content-html').click()};
+	   	if(z){jQuery('#content-html').click()};
 		jQuery('textarea[name="content"]').attr('value');
 		jQuery('textarea[name="content"]').attr('value',mycont);
-		if(z){jQuery('a#content-tmce').click()};
+		if(z){jQuery('#content-tmce').click()};
 
 	}
 
