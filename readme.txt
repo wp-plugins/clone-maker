@@ -5,10 +5,10 @@ Author URI: https://github.com/nosstradamus
 Contributors: SitnicVictor
 Donate link:
 Tags: page, clone, dublicate, copy, paste, content
-Stable tag: 1.31
-Version: 1.31
+Stable tag: 2.0
+Version: 2.0
 Requires at least: 2.6
-Tested up to: 4.1
+Tested up to: 4.2.2
 
 This Plugin simulate a copy - paste action for the page/post
 
@@ -16,7 +16,7 @@ This Plugin simulate a copy - paste action for the page/post
 "Clonemaker" is an wordpress plugin. Main target of this plugin is to insert in new page/post content from another page/post, simulate a copy - paste action.
 More features coming soon...
 
-Plugin Updated Nov-29th
+Plugin Updated Jun-08, 2015
 
 == Installation ==
 
@@ -67,10 +67,7 @@ Press on icon near link to get the content from selected page/post, editor is fi
 * Adding icon inside +++
 * Release v1.1
 * Release v1.2
-
-= 15.03.2015 =
-* Fix minor bugs
-* Release v1.3
+= 15.03.2015 =* Fix minor bugs* Release v1.3= 08.06.2015 =* Change logic of copy-paste* Make it fast and more stable* At moment only page can be cloned* Working on post
 
 
 == Upgrade Notice ==
