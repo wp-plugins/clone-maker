@@ -10,7 +10,7 @@ defined('ABSPATH') or die("No script kiddies please!");
 
  * Description: "Clonemaker" is an wordpress plugin. Main target of this plugin is to insert in new page content from another page, simulate a copy - paste action.
 
- * Version: 1.31
+ * Version: 2.0
 
  * Author:Sitnic Victor
 
